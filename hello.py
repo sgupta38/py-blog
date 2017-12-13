@@ -1,0 +1,8 @@
+print('What is your name?')
+myname = input()
+print('your name is ' + myname)
+print('length of your name is: ')
+print(len(myname))
+print('What is your  age?')
+myage = input()
+print('you will be ' + str(float(myage)+1) + ' in a year')
