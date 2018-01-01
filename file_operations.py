@@ -61,3 +61,33 @@ print()
 print(list(shelfFile.keys()))
 print(list(shelfFile.values()))
 shelfFile.close()
+
+
+
+##  Deleting the file : unlin(), rmdir()
+##
+##  Note: These functions are often dangerous and permanently deltes the file from your hard disk.
+##  Its a good practice to do a "dry run" before actual code.
+
+os.unlink('hello2.txt')         # This is relative path i.e, it searches and deletes the file from current directory
+
+## Deleting the directory. Note that to remove directory, it should be completely empty. If it has some files and sub-folders it will give error.
+os.makedirs('core_modules')
+os.rmdir('core_modules')
+
+## How to delete directory having files and folders??
+##
+##   use shutil.rmtree()
+import shutil
+#shutil.rmtree('tutorials_backup')
+
+
+##
+##          **** Send2Trash ***** : Instead of permanently deleting file from hard disk, this utility moves to 'Trash' of operating system.
+##
+##     This utility doesnt come with python, you have to explicitly install it using 'pip.exe'
+##      ==== pip.exe install send2trash ============
+
+import send2trash
+os.makedirs('tutorials')
+send2trash.send2trash('tutorials')   ## Notice that this has been deleted and moved to 'Recycle bin'
