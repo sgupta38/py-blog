@@ -57,3 +57,14 @@ except:
     errorFile.write(traceback.format_exc())
     errorFile.close()
     print('The traceback info is written to error_log.txt')
+
+
+##
+##  Assertions and assert statements
+##
+## This is nothing but a 'sanity check' which checks whether your code is not doing anything 'obviously' wrong
+##
+##   "assert condition, errormessage"
+##
+## Note: Assertions are for detecting 'programmer errors' while 'user errors' should raise exception.
+assert False, 'This si assertion error message'
