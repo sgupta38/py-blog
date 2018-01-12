@@ -1,0 +1,761 @@
+1515609929898	geckodriver	INFO	geckodriver 0.19.1
+1515609929911	geckodriver	INFO	Listening on 127.0.0.1:1200
+1515610974372	geckodriver	INFO	geckodriver 0.19.1
+1515610974395	geckodriver	INFO	Listening on 127.0.0.1:23291
+1515610979192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\jguptaso\\AppData\\Local\\Temp\\rust_mozprofile.BhreFEPX35OG"
+1515610980412	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515610982531	Marionette	INFO	Listening on port 23323
+1515610982925	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515610982983	Marionette	DEBUG	Register listener.js for window 4294967297
+[Parent 11696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515611146636	geckodriver	INFO	geckodriver 0.19.1
+1515611146651	geckodriver	INFO	Listening on 127.0.0.1:23795
+1515611149698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\jguptaso\\AppData\\Local\\Temp\\rust_mozprofile.rvU5H3YIpvFr"
+1515611150571	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515611152850	Marionette	INFO	Listening on port 23812
+1515611152904	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515611152984	Marionette	DEBUG	Register listener.js for window 4294967297
+1515611153124	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515611157692	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515611157692	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515611170648	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://github.com/"
+1515611178647	Marionette	DEBUG	Received DOM event "pageshow" for "https://github.com/"
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515611282589	geckodriver	INFO	geckodriver 0.19.1
+1515611282599	geckodriver	INFO	Listening on 127.0.0.1:24209
+1515611285722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\jguptaso\\AppData\\Local\\Temp\\rust_mozprofile.NN3LFeXa9lYZ"
+1515611286635	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515611288558	Marionette	INFO	Listening on port 24226
+1515611288959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515611289013	Marionette	DEBUG	Register listener.js for window 4294967297
+1515611289070	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515611296718	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515611296719	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515611300757	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://github.com/"
+1515611315709	Marionette	DEBUG	Received DOM event "pageshow" for "https://github.com/"
+1515611315844	Marionette	DEBUG	Received DOM event "beforeunload" for "https://github.com/"
+1515611316770	Marionette	DEBUG	Received DOM event "pagehide" for "https://github.com/"
+1515611316773	Marionette	DEBUG	Received DOM event "unload" for "https://github.com/"
+1515611317087	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://github.com/login"
+1515611317548	Marionette	DEBUG	Received DOM event "pageshow" for "https://github.com/login"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://github.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://github.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515611578527	geckodriver	INFO	geckodriver 0.19.1
+1515611578542	geckodriver	INFO	Listening on 127.0.0.1:10982
+1515611581654	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\jguptaso\\AppData\\Local\\Temp\\rust_mozprofile.nQZ77az7SJCA"
+1515611582464	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515611584467	Marionette	INFO	Listening on port 10997
+1515611584938	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515611585045	Marionette	DEBUG	Register listener.js for window 4294967297
+1515611585099	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515611589632	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515611589633	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515611595582	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://github.com/"
+1515611608683	Marionette	DEBUG	Received DOM event "pageshow" for "https://github.com/"
+1515611608784	Marionette	DEBUG	Received DOM event "beforeunload" for "https://github.com/"
+1515611609639	Marionette	DEBUG	Received DOM event "pagehide" for "https://github.com/"
+1515611609642	Marionette	DEBUG	Received DOM event "unload" for "https://github.com/"
+1515611610018	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://github.com/login"
+1515611610505	Marionette	DEBUG	Received DOM event "pageshow" for "https://github.com/login"
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515611712747	geckodriver	INFO	geckodriver 0.19.1
+1515611712762	geckodriver	INFO	Listening on 127.0.0.1:11406
+1515611715852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\jguptaso\\AppData\\Local\\Temp\\rust_mozprofile.OYMjNyQezerE"
+1515611716672	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515611718733	Marionette	INFO	Listening on port 11420
+1515611719075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515611719141	Marionette	DEBUG	Register listener.js for window 4294967297
+1515611719178	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515611723957	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515611723958	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515611731856	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://github.com/"
+1515611742565	Marionette	DEBUG	Received DOM event "pageshow" for "https://github.com/"
+1515611742681	Marionette	DEBUG	Received DOM event "beforeunload" for "https://github.com/"
+1515611743564	Marionette	DEBUG	Received DOM event "pagehide" for "https://github.com/"
+1515611743567	Marionette	DEBUG	Received DOM event "unload" for "https://github.com/"
+1515611743899	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://github.com/login"
+1515611744348	Marionette	DEBUG	Received DOM event "pageshow" for "https://github.com/login"
+1515611744778	Marionette	DEBUG	Received DOM event "beforeunload" for "https://github.com/login"
+1515611744851	Marionette	DEBUG	Received DOM event "pagehide" for "https://github.com/login"
+1515611744852	Marionette	DEBUG	Received DOM event "unload" for "https://github.com/login"
+1515611745341	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://github.com/"
+1515611745851	Marionette	DEBUG	Received DOM event "pageshow" for "https://github.com/"
+1515611745886	Marionette	DEBUG	Received DOM event "beforeunload" for "https://github.com/"
+1515611746895	Marionette	DEBUG	Received DOM event "pagehide" for "https://github.com/"
+1515611746902	Marionette	DEBUG	Received DOM event "unload" for "https://github.com/"
+1515611755452	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://github.com/"
+1515611764185	Marionette	DEBUG	Received DOM event "pageshow" for "https://github.com/"
+1515611764212	Marionette	DEBUG	Received DOM event "beforeunload" for "https://github.com/"
+1515611765160	Marionette	DEBUG	Received DOM event "pagehide" for "https://github.com/"
+1515611765160	Marionette	DEBUG	Received DOM event "unload" for "https://github.com/"
+1515611765455	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://github.com/login"
+1515611765960	Marionette	DEBUG	Received DOM event "pageshow" for "https://github.com/login"
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 4044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ome/common/ipc_channel_win.cc, line 346
+1515611780777	Marionette	INFO	Listening on port 11654
+1515611781146	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515611781195	Marionette	DEBUG	Register listener.js for window 4294967297
+1515611781232	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515611787050	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515611787050	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515611791144	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://github.com/"
+1515611805400	Marionette	DEBUG	Received DOM event "pageshow" for "https://github.com/"
+1515611805520	Marionette	DEBUG	Received DOM event "beforeunload" for "https://github.com/"
+1515611806368	Marionette	DEBUG	Received DOM event "pagehide" for "https://github.com/"
+1515611806371	Marionette	DEBUG	Received DOM event "unload" for "https://github.com/"
+1515611806766	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://github.com/login"
+1515611807329	Marionette	DEBUG	Received DOM event "pageshow" for "https://github.com/login"
+1515611807732	Marionette	DEBUG	Received DOM event "beforeunload" for "https://github.com/login"
+1515611807800	Marionette	DEBUG	Received DOM event "pagehide" for "https://github.com/login"
+1515611807801	Marionette	DEBUG	Received DOM event "unload" for "https://github.com/login"
+1515611808352	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://github.com/"
+1515611809031	Marionette	DEBUG	Received DOM event "pageshow" for "https://github.com/"
+1515611809073	Marionette	DEBUG	Received DOM event "beforeunload" for "https://github.com/"
+1515611810047	Marionette	DEBUG	Received DOM event "pagehide" for "https://github.com/"
+1515611810050	Marionette	DEBUG	Received DOM event "unload" for "https://github.com/"
+1515611815237	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://github.com/"
+1515611827404	Marionette	DEBUG	Received DOM event "pageshow" for "https://github.com/"
+1515611827466	Marionette	DEBUG	Received DOM event "beforeunload" for "https://github.com/"
+1515611834209	Marionette	DEBUG	Received DOM event "beforeunload" for "https://github.com/"
+1515611834339	Marionette	DEBUG	Received DOM event "pagehide" for "https://github.com/"
+1515611834340	Marionette	DEBUG	Received DOM event "unload" for "https://github.com/"
+1515611834358	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515611841243	geckodriver	INFO	geckodriver 0.19.1
+1515611841258	geckodriver	INFO	Listening on 127.0.0.1:11873
+1515611844360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\jguptaso\\AppData\\Local\\Temp\\rust_mozprofile.ptVF9lVMRJU7"
+1515611845190	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515611847206	Marionette	INFO	Listening on port 11886
+1515611847616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515611847677	Marionette	DEBUG	Register listener.js for window 4294967297
+1515611847729	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515611851741	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515611851742	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515611859619	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://github.com/"
+1515611871405	Marionette	DEBUG	Received DOM event "pageshow" for "https://github.com/"
+1515611871514	Marionette	DEBUG	Received DOM event "beforeunload" for "https://github.com/"
+1515611872393	Marionette	DEBUG	Received DOM event "pagehide" for "https://github.com/"
+1515611872395	Marionette	DEBUG	Received DOM event "unload" for "https://github.com/"
+1515611872754	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://github.com/login"
+1515611873241	Marionette	DEBUG	Received DOM event "pageshow" for "https://github.com/login"
+1515611873629	Marionette	DEBUG	Received DOM event "beforeunload" for "https://github.com/login"
+1515611873719	Marionette	DEBUG	Received DOM event "pagehide" for "https://github.com/login"
+1515611873721	Marionette	DEBUG	Received DOM event "unload" for "https://github.com/login"
+1515611874218	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://github.com/"
+1515611874701	Marionette	DEBUG	Received DOM event "pageshow" for "https://github.com/"
+1515611874763	Marionette	DEBUG	Received DOM event "beforeunload" for "https://github.com/"
+1515611875973	Marionette	DEBUG	Received DOM event "pagehide" for "https://github.com/"
+1515611875979	Marionette	DEBUG	Received DOM event "unload" for "https://github.com/"
+1515611879012	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://github.com/"
+1515611893663	Marionette	DEBUG	Received DOM event "pageshow" for "https://github.com/"
+1515611893719	Marionette	DEBUG	Received DOM event "beforeunload" for "https://github.com/"
+1515611894619	Marionette	DEBUG	Received DOM event "pagehide" for "https://github.com/"
+1515611894631	Marionette	DEBUG	Received DOM event "unload" for "https://github.com/"
+1515611894970	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://github.com/login"
+1515611895460	Marionette	DEBUG	Received DOM event "pageshow" for "https://github.com/login"
+[Parent 9228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515612181356	geckodriver	INFO	geckodriver 0.19.1
+1515612181371	geckodriver	INFO	Listening on 127.0.0.1:12688
+1515612184468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\jguptaso\\AppData\\Local\\Temp\\rust_mozprofile.WomDxCeGAAcQ"
+1515612185292	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515612187348	Marionette	INFO	Listening on port 12702
+1515612187684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515612187749	Marionette	DEBUG	Register listener.js for window 4294967297
+1515612187785	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515612189531	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515612189534	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515612190027	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/"
+1515612193079	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/"
+1515612193181	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/"
+1515612194221	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/"
+1515612194224	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/"
+1515612197597	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612198365	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515612198928	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ng on 127.0.0.1:12916
+1515612271932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\jguptaso\\AppData\\Local\\Temp\\rust_mozprofile.N43Vo7JsQMDh"
+1515612272927	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515612274980	Marionette	INFO	Listening on port 12930
+1515612275142	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515612275208	Marionette	DEBUG	Register listener.js for window 4294967297
+1515612275269	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515612276631	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515612276631	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515612277371	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/"
+1515612280034	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/"
+1515612280122	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/"
+1515612281184	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/"
+1515612281187	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/"
+1515612286147	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/?tab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1#"
+1515612288061	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515612288214	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612288734	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buil1515612371970	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515612374174	Marionette	INFO	Listening on port 13193
+1515612374461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515612374521	Marionette	DEBUG	Register listener.js for window 4294967297
+1515612374578	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515612375911	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515612375911	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515612376419	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/"
+1515612379639	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/"
+1515612379726	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/"
+1515612380813	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/"
+1515612380818	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/"
+1515612383717	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612384256	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515612384307	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612384937	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 5980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 15216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+	Received DOM event "beforeunload" for "about:blank"
+1515612502174	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515612502174	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515612502773	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/"
+1515612505865	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/"
+1515612505968	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/"
+1515612506811	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/"
+1515612506814	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/"
+1515612511318	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612511475	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515612512739	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612513264	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515612518570	Marionette	DEBUG	Received DOM event "popstate" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612518650	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612518652	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1515612519093	Marionette	DEBUG	Received DOM event "pagehide" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612519114	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612521641	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515612521643	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612521771	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1515612521805	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612521863	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612522323	Marionette	DEBUG	Received DOM event "pagehide" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612522348	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612525160	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515612525162	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1515612525356	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1515612525379	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1515612575877	geckodriver	INFO	geckodriver 0.19.1
+1515612575892	geckodriver	INFO	Listening on 127.0.0.1:13849
+1515612578980	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\jguptaso\\AppData\\Local\\Temp\\rust_mozprofile.2OFdi5WlLG3x"
+1515612579711	Marionette	INFO	Enabled via --marionette
+1515612581745	Marionette	INFO	Listening on port 13861
+1515612582235	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515612582323	Marionette	DEBUG	Register listener.js for window 4294967297
+1515612582361	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515612583530	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515612583532	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515612584063	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/"
+1515612586836	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/"
+1515612586930	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/"
+1515612587953	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/"
+1515612587956	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/"
+1515612592311	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612593059	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515612593697	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612594245	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515612637399	geckodriver	INFO	geckodriver 0.19.1
+1515612637414	geckodriver	INFO	Listening on 127.0.0.1:14026
+1515612640462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\jguptaso\\AppData\\Local\\Temp\\rust_mozprofile.r4SldeWZGvY4"
+1515612641238	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515612643193	Marionette	INFO	Listening on port 14040
+1515612643655	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515612643795	Marionette	DEBUG	Register listener.js for window 4294967297
+1515612643850	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515612645249	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515612645250	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515612645780	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/"
+1515612649472	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/"
+1515612649592	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/"
+1515612651114	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/"
+1515612651118	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/"
+1515612654875	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/?tab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1#"
+1515612655999	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515612656374	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612656886	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515612662126	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1515612666401	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1515612666510	Marionette	DEBUG	Received DOM event "pagehide" for "https://accounts.google.com/signin/v2/sl/pwd?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1515612666571	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/signin/v2/sl/pwd?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1515612666582	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515612666583	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+[Parent 12464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515612686902	geckodriver	INFO	geckodriver 0.19.1
+1515612686914	geckodriver	INFO	Listening on 127.0.0.1:14187
+1515612689953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\jguptaso\\AppData\\Local\\Temp\\rust_mozprofile.yYDPPJm60z0D"
+1515612690767	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15692, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515612692820	Marionette	INFO	Listening on port 14200
+1515612693167	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515612693223	Marionette	DEBUG	Register listener.js for window 4294967297
+1515612693261	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515612695251	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515612695251	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515612695798	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/"
+1515612700213	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/"
+1515612700313	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/"
+1515612701660	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/"
+1515612701670	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/"
+1515612705468	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612706174	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515612709595	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612710198	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515612715488	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1515612720727	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515612720826	Marionette	DEBUG	Received DOM event "popstate" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612720943	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612720946	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1515612721362	Marionette	DEBUG	Received DOM event "pagehide" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612721393	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612723916	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515612723918	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612724046	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1515612724080	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612724136	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612724383	Marionette	DEBUG	Received DOM event "pagehide" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612724394	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515612727110	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515612727112	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1515612727230	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1515612727252	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+[Parent 15692, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515613085676	geckodriver	INFO	geckodriver 0.19.1
+1515613085691	geckodriver	INFO	Listening on 127.0.0.1:1574
+1515613088756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\jguptaso\\AppData\\Local\\Temp\\rust_mozprofile.WlsKffyzYcWI"
+1515613089663	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515613091678	Marionette	INFO	Listening on port 1589
+1515613092000	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515613092068	Marionette	DEBUG	Register listener.js for window 4294967297
+1515613092117	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515613093805	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515613093805	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515613094449	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/"
+1515613097841	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/"
+1515613097947	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/"
+1515613101221	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/"
+1515613101226	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/"
+1515613105193	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515613105633	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515613106049	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515613106556	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515613111791	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1515613117039	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515613117143	Marionette	DEBUG	Received DOM event "popstate" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515613117252	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515613117254	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1515613117697	Marionette	DEBUG	Received DOM event "pagehide" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515613117725	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515613120318	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515613120319	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515613120469	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1515613120496	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515613120576	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515613120870	Marionette	DEBUG	Received DOM event "pagehide" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515613120896	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515613123454	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515613123458	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1515613123589	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1515613123613	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1515613623576	geckodriver	INFO	geckodriver 0.19.1
+1515613623591	geckodriver	INFO	Listening on 127.0.0.1:4082
+1515613626686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\jguptaso\\AppData\\Local\\Temp\\rust_mozprofile.DJsr3KoBmkFv"
+1515613627602	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515613629768	Marionette	INFO	Listening on port 4104
+1515613629906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515613629982	Marionette	DEBUG	Register listener.js for window 4294967297
+1515613630077	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515613631536	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515613631537	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515613632125	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/"
+1515613635146	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/"
+1515613635234	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/"
+1515613636538	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/"
+1515613636540	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/"
+1515613640924	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/?tab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1#"
+1515613641714	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515613641727	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515613642347	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 17216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17224, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 17224, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 17224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515613647383	geckodriver::marionette	ERROR	Failed to kill browser process
+1515613651457	geckodriver	INFO	geckodriver 0.19.1
+1515613651472	geckodriver	INFO	Listening on 127.0.0.1:4236
+1515613654557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\jguptaso\\AppData\\Local\\Temp\\rust_mozprofile.aB0qVOPHBnQf"
+1515613655392	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515613657594	Marionette	INFO	Listening on port 4254
+1515613657840	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515613657906	Marionette	DEBUG	Register listener.js for window 4294967297
+1515613657959	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515613665882	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515613665883	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515613674977	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.goodreads.com/"
+1515613682008	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515613683400	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.goodreads.com/"
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openv1515613731618	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515613734616	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281
+1515613734824	Marionette	INFO	Listening on port 4612
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Promise rejected after context unloaded: Message manager disconnected
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/PlacesUtils.jsm, line 1931: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsPIPlacesDatabase.connectionShutdownClient]
+JavaScript error: resource://gre/modules/BookmarkHTMLUtils.jsm, line 911: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.removeFolderChildren]
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 410: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 410: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/ProfileAge.jsm, line 176: Error: Unable to fetch oldest profile entry: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_next
+JavaScript error: resource://gre/modules/ProfileAge.jsm, line 176: Error: Unable to fetch oldest profile entry: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_next
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515613760408	geckodriver	INFO	geckodriver 0.19.1
+1515613760426	geckodriver	INFO	Listening on 127.0.0.1:4732
+1515613763460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\jguptaso\\AppData\\Local\\Temp\\rust_mozprofile.ZnJBqghdQ0Lm"
+1515613764583	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515613767138	Marionette	INFO	Listening on port 4751
+1515613767329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515613767416	Marionette	DEBUG	Register listener.js for window 4294967297
+1515613767488	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515613768232	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515613768233	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515613769105	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/"
+1515613771701	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/"
+1515613771806	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/"
+1515613775835	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/"
+1515613775839	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/"
+1515613779576	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515613779892	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1515613780334	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?ad_block=2&client=ca-pub-6219811747049371&output=html&h=250&adk=1877511118&loeid=9422596%2C9434802%2C9441385%2C9466591%2C9471235%2C9474355%2C9477759%2C9488991%2C23702262%2C23702730%2C23705778%2C23706319%2C23707664%2C23709293%2C23709851%2C23714304%2C23715148%2C23716909%2C23716917%2C23717314%2C23718984%2C23719157%2C23719396%2C23719730%2C23720043&pucrd=CgYIABAAGAA&channel=0854550288%2BVertical_1032%2BVertical_211%2BVertical_35%2BVertical_36%2BVertical_360%2BVertical_593%2BVertical_613%2Bafv_user_id__A7K2dXFsTMAciGmnNxy-Q%2Bafv_user_songsofindiancinema%2Byt_cid_937093%2Byt_mpvid_Len7wBVOQa-yBDh0%2Byt_no_360%2Byt_no_ap%2Byt_no_cp%2Byt_no_wa%2Bytdevice_1%2Bytdevicever_2.20180109%2Bytel_detailpage%2Bytps_default&ad_type=image&format=300x250_as&url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2FnDOpAEW2q2w&ea=0&flash=0&host=ca-host-pub-5217705747509026&ht_id=3730858&alternate_ad_url=https%3A%2F%2Fwww.youtube.com%2Fad_frame%3Faction%3Dauto-collapse-kevlar-companion&hl=en&video_doc_id=yt_nDOpAEW2q2w&wgl=1&dbp=ChZEMHczSnVPRk5WYm5fSS1RSFVGUDZ3EAEgASgA&lact=-1&yt_pt=APb3F28xPximfWDKPMeIfraNMwmb5_L0rtITiUgKBVJJeR7ZbHLybaviFrZYcp0lAIIODrFAM5A7afx4gCQ2htoaCE71ejv9WZ4ZmG11Ir3RR4Nyb4ZzGM2qcNg1L5Hex1Iiz8_0rb_n2UtFVWJF&dt=1515613863120&bdt=33262&idt=0&shv=r20180102&cbv=r20110914&saldr=ca&correlator=7247176025588&frm=20&ga_vid=2128085369.1515613863&ga_sid=1515613863&ga_hid=753750957&ga_fc=0&pv=2&icsg=206094467051&dssz=39&mdo=0&mso=0&u_tz=330&u_his=5&u_java=0&u_h=888&u_w=1579&u_ah=852&u_aw=1579&u_cd=24&u_nplug=0&u_nmime=0&adx=749&ady=80&biw=1236&bih=675&abxe=1&eid=56702509%2C179094711&oid=3&nmo=1&zm=1.02&ref=https%3A%2F%2Fwww.google.co.in%2F&loc=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnDOpAEW2q2w&rx=0&eae=2&brdim=%2C%2C4%2C4%2C1579%2C0%2C1266%2C758%2C1253%2C675&vis=1&rsz=%7C%7Capoe%7C&abl=CA&ppjl=u&pfx=0&fu=4176&bc=1&ifi=1&dtd=37, line 1: ReferenceError: osdlfm is not defined
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15788, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515614028642	geckodriver	INFO	geckodriver 0.19.1
+1515614028642	geckodriver	INFO	Listening on 127.0.0.1:60358
+1515614031725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\jguptaso\\AppData\\Local\\Temp\\rust_mozprofile.Gew8TYMMbwKP"
+1515614032670	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16716, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515614034697	Marionette	INFO	Listening on port 60381
+1515614034953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515614035020	Marionette	DEBUG	Register listener.js for window 4294967297
+1515614035082	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515614041383	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515614041383	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515614045490	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://en.savefrom.net/#url=http://youtube.com/watch?v=nDOpAEW2q2w&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com"
+1515614049976	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1515614050486	Marionette	DEBUG	Received DOM event "pageshow" for "https://en.savefrom.net/#url=http://youtube.com/watch?v=nDOpAEW2q2w&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com"
+1515614050600	Marionette	DEBUG	Received DOM event "beforeunload" for "https://en.savefrom.net/#url=http://youtube.com/watch?v=nDOpAEW2q2w&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com"
+1515614055804	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 16212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515614097621	geckodriver	INFO	geckodriver 0.19.1
+1515614097636	geckodriver	INFO	Listening on 127.0.0.1:60661
+1515614100662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\jguptaso\\AppData\\Local\\Temp\\rust_mozprofile.uE4MLCh490BU"
+1515614101456	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515614103607	Marionette	INFO	Listening on port 60678
+1515614103856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515614103914	Marionette	DEBUG	Register listener.js for window 4294967297
+1515614103957	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515614106515	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515614106516	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515614114463	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://en.savefrom.net/#url=http://youtube.com/watch?v=nDOpAEW2q2w&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com"
+1515614119358	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515614119978	Marionette	DEBUG	Received DOM event "pageshow" for "https://en.savefrom.net/#url=http://youtube.com/watch?v=nDOpAEW2q2w&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com"
+1515614120074	Marionette	DEBUG	Received DOM event "beforeunload" for "https://en.savefrom.net/#url=http://youtube.com/watch?v=nDOpAEW2q2w&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com"
+1515614125287	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515614188401	geckodriver	INFO	geckodriver 0.19.1
+1515614188417	geckodriver	INFO	Listening on 127.0.0.1:61035
+1515614191492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\jguptaso\\AppData\\Local\\Temp\\rust_mozprofile.0hhaXcU5gEje"
+1515614192538	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 18216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515614194662	Marionette	INFO	Listening on port 61052
+1515614194706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515614194769	Marionette	DEBUG	Register listener.js for window 4294967297
+1515614194849	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515614200572	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515614200573	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515614206051	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://en.savefrom.net/#url=http://youtube.com/watch?v=nDOpAEW2q2w&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com"
+1515614211712	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1515614212187	Marionette	DEBUG	Received DOM event "pageshow" for "https://en.savefrom.net/#url=http://youtube.com/watch?v=nDOpAEW2q2w&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com"
+1515614212284	Marionette	DEBUG	Received DOM event "beforeunload" for "https://en.savefrom.net/#url=http://youtube.com/watch?v=nDOpAEW2q2w&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com"
+1515614217495	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14560, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14560, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 18076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515747650957	geckodriver	INFO	geckodriver 0.19.1
+1515747650975	geckodriver	INFO	Listening on 127.0.0.1:39768
+1515747654077	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\jguptaso\\AppData\\Local\\Temp\\rust_mozprofile.qelzxva3abkr"
+1515747655577	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515747658185	Marionette	INFO	Listening on port 39776
+1515747658391	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515747658506	Marionette	DEBUG	Register listener.js for window 4294967297
+1515747658741	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515747666230	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515747666230	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515747671999	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://en.savefrom.net/#url=http://youtube.com/watch?v=BYNV3S5nq7s&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com"
+1515747673545	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515747680204	Marionette	DEBUG	Received DOM event "pageshow" for "https://en.savefrom.net/#url=http://youtube.com/watch?v=BYNV3S5nq7s&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com"
+1515747680323	Marionette	DEBUG	Received DOM event "beforeunload" for "https://en.savefrom.net/#url=http://youtube.com/watch?v=BYNV3S5nq7s&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com"
+1515747685527	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\jguptaso\AppData\Local\openvr\openvrpaths.vrpath
