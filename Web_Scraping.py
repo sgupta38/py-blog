@@ -15,6 +15,7 @@ def findSharePrice(url):
                 'BSE': bseElems[0].text.strip(),
                 'NSE': nseElems[0].text.strip(),
         }
+
     return Price
 
     # #
