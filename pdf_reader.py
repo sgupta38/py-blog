@@ -1,5 +1,5 @@
 ##
-#       Merges the pdf using third party module PyPDF2.
+#       Reads the pdf using third party module PyPDF2.
 ##      You can do all the text handling like reading from pdf and creating new pdf like that. But, you cant edit existing pdf
 ##
 import PyPDF2
