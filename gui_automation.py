@@ -1,6 +1,7 @@
 ##
 ##  This example demonstrates how python can be used for real time mouse movement such as dragging, clicking etc and help in automating GUIs
 ##
+##  Note: Co-ordinates in this example are according to my laptops screen resolution. Yours will change based on your screen resolution. So do required changes.
 
 import pyautogui
 
@@ -13,7 +14,6 @@ pyautogui.moveTo(1, 1)  # This moves the mouse cursor to new position
 ## Above function moves cursor so quickly, to see it actually, you can specify duration like,
 pyautogui.moveTo(250, 250, duration = 1.5)  # This moves the mouse cursor to new position in 1.5 sec
 pyautogui.moveTo(1, 1, duration = 1.5)  # This moves the mouse cursor to new position
-
 
 ## This moves mouse cursor 'Relative to current location'
 pyautogui.moveRel(200, 200, duration = 2.5)
@@ -46,6 +46,35 @@ pyautogui.click(417, 47)
 ##               py -3.6
 ##              import pyautogui
 ##              pyautogui.displayMousePosition()
-##
-##
-##
+
+
+#===========================================================================================================================================
+#           Keyboard functions
+# sonuThis is python script
+pyautogui.click(468, 590) # shift the focus onto editbox, notepad or wateva!!
+pyautogui.typewrite('# This is python script', interval=0.2)
+
+# This is python script We can also write character by characterand use left, right buttons for moving
+pyautogui.click(470, 600)
+pyautogui.typewrite(['n', 'u', 'left', 'left', 's', 'o'], interval = 0.7)
+
+
+## To see keyboard keys supported by pyautogui,
+print(pyautogui.KEYBOARD_KEYS)
+
+## You can also press one key at a time
+pyautogui.press('f1')
+
+#To use hot keys like ctrl+s, ctrl+o:
+
+#This will undo watever writtern earlier
+pyautogui.hotkey('ctrl', 'z')
+pyautogui.hotkey('ctrl', 'z')
+pyautogui.hotkey('ctrl', 'z')
+pyautogui.hotkey('ctrl', 'z')
+pyautogui.hotkey('ctrl', 'z')
+
+pyautogui.hotkey('ctrl', 'o')
+
+pyautogui.moveTo(1038, 703, duration=1)
+pyautogui.click()
