@@ -2,7 +2,7 @@ from tkinter import *
 root = Tk()
 
 topFrame = Frame(root)
-topFrame.pack()
+topFrame.pack()         # pack is necessary everytime without this, it wont be shown on window
 
 bottomFrame = Frame(root)
 bottomFrame.pack(side=BOTTOM)
