@@ -1,3 +1,5 @@
+## Note: you can either use "pack" or "grid", not both.
+
 from tkinter import *
 root = Tk()
 
