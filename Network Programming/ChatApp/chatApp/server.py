@@ -2,10 +2,12 @@
 # @purpose: Simple Python chat application. This file acts as a 'Server', 
 #           which listens for client.
 #
-# @todo: Support for non-blocking socket
 
+import time
 import sys
 import socket
+from threading import Thread
+import threading
 
 # Hardcoded data for ip/hostname and port
 host = '127.0.0.1'
@@ -19,19 +21,52 @@ conn, addr = sock.accept()  # 4. accept the connection and return the new socket
 print('Connected by', addr)
 print('Write \'$\' to exit')
 
-while True:
-    data = conn.recv(1024)
-    if data.decode() == '$':
-        print('Connection aborted by client')
-        break
-    else:
-     print('CLIENT: ', data.decode())
+def recvd(conn):
+    try:
+        while True:
+            data = conn.recv(1024)
+            if data.decode() == 'bye' or data.decode() == 'BYE':
+                conn.close()
+                return True
+            else:
+                print('\nCLIENT: ', data.decode())
+    except:
+        print('Connection is closed.')
+        return True
 
-     # 'end' parameter is used to specify the line end character. 
-     # We will set end option to nothing and this will remove default \n or end of line or space.
+def sendd(conn):
+    try:
+        while True:
+            print('SERVER: ', end="")   # To show the cursor infront of 'SERVER ' token, use end=""
+            srvData = input()
+            if srvData == "bye" or srvData == "BYE":
+                conn.close()
+                return True
+            else:
+                conn.sendall(srvData.encode())
+    except:
+         print('Connection is closed.')
+         return True;
 
-     print('SERVER: ', end="")   # To show the cursor infront of 'SERVER ' token, use end=""
-     srvData = input()
-     conn.sendall(srvData.encode())
+        
+# Ctrl+C terminates the main thread, but because your threads aren't in daemon mode, they keep running,
+# and that keeps the process alive. We can make them daemons.
 
-sock.close()
+try:
+    # recv thread
+    t1 = threading.Thread(target=recvd, args=(conn,))
+    t1.daemon = True;
+    t1.start()
+
+    #send thread
+    t2 = threading.Thread(target=sendd, args=(conn,))
+    t2.daemon = True;
+    t2.start()
+except:
+    print('Exception occured 1')
+    exit(1)
+
+
+if(t1.join() or t2.join()):
+    sys.exit()
+
